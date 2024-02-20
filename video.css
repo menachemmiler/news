@@ -1,0 +1,30 @@
+* {
+    background-color: aqua;
+    
+}
+
+table {
+    border-collapse: collapse;
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+table, th, td {
+    border: 2px solid #dddddd;
+    padding: 8px;
+} 
+
+#video th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    background-color: #04AA6D;
+    color: white;
+
+}
+
+video {
+    width: 500px;
+    height: 300px;
+}
